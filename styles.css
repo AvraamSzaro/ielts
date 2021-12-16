@@ -1,0 +1,12 @@
+body {
+  font-family: "PT Serif", serif;
+  background: #92847c;
+  margin: 0;
+  padding-top: 20px;
+  position: center;
+}
+.cc {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
